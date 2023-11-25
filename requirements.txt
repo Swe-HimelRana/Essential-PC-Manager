@@ -1,0 +1,4 @@
+psutil==5.9.6
+py-cpuinfo==9.0.0
+pywin32==306
+WMI==1.5.1
